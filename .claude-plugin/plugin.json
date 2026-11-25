@@ -1,0 +1,16 @@
+{
+  "name": "assemble-pro",
+  "displayName": "Assemble",
+  "version": "1.0.0",
+  "description": "Construction takeoff and estimating: measure PDF drawings, price jobs from your library, and build and send estimates in Assemble.",
+  "author": { "name": "Assemble Limited", "url": "https://assemblepro.com" },
+  "homepage": "https://assemblepro.com/ai-connectors",
+  "repository": "https://github.com/assemblepro/assemble-claude-plugin",
+  "license": "MIT",
+  "keywords": ["construction", "takeoff", "estimating", "quotes", "builders", "contractors"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://assemblepro.com/ai-connectors",
+  "supportUrl": "https://assemblepro.com/contact",
+  "privacyPolicyUrl": "https://app.assemblepro.com/privacy",
+  "termsOfServiceUrl": "https://app.assemblepro.com/terms"
+}

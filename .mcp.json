@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "assemble": {
+      "type": "http",
+      "url": "https://app.assemblepro.com/api/mcp"
+    }
+  }
+}

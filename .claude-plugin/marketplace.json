@@ -1,0 +1,17 @@
+{
+  "name": "assemblepro",
+  "owner": {
+    "name": "Assemble Limited",
+    "url": "https://assemblepro.com"
+  },
+  "metadata": {
+    "description": "Assemble plugins for construction takeoff and estimating."
+  },
+  "plugins": [
+    {
+      "name": "assemble-pro",
+      "source": "./",
+      "description": "Construction takeoff and estimating: measure PDF drawings, price jobs from your library, and build and send estimates in Assemble."
+    }
+  ]
+}
