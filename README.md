@@ -34,6 +34,6 @@ An Assemble account (https://assemblepro.com). Sign in when Claude asks you to c
 
 ## Support and privacy
 
-- Docs: https://assemblepro.com/ai-connectors
+- Docs: https://assemblepro.com/mcp
 - Support: support@assemblepro.com
 - Privacy policy: https://app.assemblepro.com/privacy
